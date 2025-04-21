@@ -1,0 +1,13 @@
+input {
+    margin: 5px;
+    padding: 5px;
+  }
+  button {
+    margin-right: 10px;
+    padding: 6px 12px;
+  }
+  label {
+    display: inline-block;
+    width: 70px;
+  }
+  
